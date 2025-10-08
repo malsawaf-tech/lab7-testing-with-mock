@@ -1,7 +1,22 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 61ca259b03079a833b32dbd65f373f504707d1bb
-  Commits: 1
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 1c414e0643693fbf15250dc24f320361158fe197
+  Commits: 3
   Recent commits:
+    1c414e0 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T22:44:16Z | Bump python in /presidio-anonymizer
+    1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
+    61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
+- dependabot/github_actions/actions/checkout-5
+  SHA: bfe10291e3616a797c3e85b453f92dd5cce5f491
+  Commits: 3
+  Recent commits:
+    bfe1029 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T22:44:11Z | Bump actions/checkout from 3 to 5
+    1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
+    61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
+- main
+  SHA: 1745a49c8c24a86d4199e6448dc6aaaa3c5090d1
+  Commits: 2
+  Recent commits:
+    1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
     61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
