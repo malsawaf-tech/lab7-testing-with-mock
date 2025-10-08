@@ -24,10 +24,11 @@ Branches in this repo (with details):
     1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
     61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
 - main
-  SHA: c27742e7e6411fb31b098c6aa510f33c0b9edd5c
-  Commits: 4
+  SHA: 09911e25826e8798945c9864ff78a735addc27e7
+  Commits: 7
   Recent commits:
+    09911e2 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:17:28Z | Merge branch 'lab7'
+    a2db945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T23:17:05Z | Auto-update branch-info.txt
+    1a754bc | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:16:11Z | finished lab
     c27742e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:26Z | Auto-update branch-info.txt
     8117b39 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:22Z | Auto-update branch-info.txt
-    1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
-    61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
