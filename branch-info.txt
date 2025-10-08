@@ -14,10 +14,20 @@ Branches in this repo (with details):
     bfe1029 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T22:44:11Z | Bump actions/checkout from 3 to 5
     1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
     61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
-- main
-  SHA: 8117b39c6b55f42b5bcc93b4a4cc21262518979b
-  Commits: 3
+- lab7
+  SHA: 1a754bc5dd6d911719b6ab2efa556b218e46ef4c
+  Commits: 5
   Recent commits:
+    1a754bc | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:16:11Z | finished lab
+    c27742e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:26Z | Auto-update branch-info.txt
+    8117b39 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:22Z | Auto-update branch-info.txt
+    1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
+    61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
+- main
+  SHA: c27742e7e6411fb31b098c6aa510f33c0b9edd5c
+  Commits: 4
+  Recent commits:
+    c27742e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:26Z | Auto-update branch-info.txt
     8117b39 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:22Z | Auto-update branch-info.txt
     1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
     61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
