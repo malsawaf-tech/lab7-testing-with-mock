@@ -7,13 +7,15 @@ Branches in this repo (with details):
     1c414e0 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T22:44:16Z | Bump python in /presidio-anonymizer
     1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
     61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: bfe10291e3616a797c3e85b453f92dd5cce5f491
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: a3e95706b6045c8481eca7a0c7c396f095a31291
+  Commits: 9
   Recent commits:
-    bfe1029 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T22:44:11Z | Bump actions/checkout from 3 to 5
-    1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
-    61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
+    a3e9570 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T04:41:34Z | Bump actions/checkout from 3 to 6
+    5e1cae5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T23:18:21Z | Auto-update branch-info.txt
+    09911e2 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:17:28Z | Merge branch 'lab7'
+    a2db945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T23:17:05Z | Auto-update branch-info.txt
+    1a754bc | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:16:11Z | finished lab
 - lab7
   SHA: 1a754bc5dd6d911719b6ab2efa556b218e46ef4c
   Commits: 5
@@ -24,11 +26,11 @@ Branches in this repo (with details):
     1745a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:43:46Z | Auto-update branch-info.txt
     61ca259 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T18:43:31-04:00 | Initial commit
 - main
-  SHA: 09911e25826e8798945c9864ff78a735addc27e7
-  Commits: 7
+  SHA: 5e1cae58ebd559810e7ebc82d4cc2da5e4a9f24c
+  Commits: 8
   Recent commits:
+    5e1cae5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T23:18:21Z | Auto-update branch-info.txt
     09911e2 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:17:28Z | Merge branch 'lab7'
     a2db945 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T23:17:05Z | Auto-update branch-info.txt
     1a754bc | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-10-08T23:16:11Z | finished lab
     c27742e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:26Z | Auto-update branch-info.txt
-    8117b39 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-08T22:44:22Z | Auto-update branch-info.txt
